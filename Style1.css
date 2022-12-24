@@ -1,0 +1,10 @@
+@charset "utf-8";
+.Style1 {
+	background-color: #969;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: text-top;
+	word-spacing: normal;
+	white-space: normal;
+	display: none;
+}
